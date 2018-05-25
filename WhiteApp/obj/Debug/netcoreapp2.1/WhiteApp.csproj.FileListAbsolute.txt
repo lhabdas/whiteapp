@@ -1,0 +1,14 @@
+d:\whiteapp\WhiteApp\WhiteApp\bin\Debug\netcoreapp2.1\WhiteApp.deps.json
+d:\whiteapp\WhiteApp\WhiteApp\bin\Debug\netcoreapp2.1\WhiteApp.runtimeconfig.json
+d:\whiteapp\WhiteApp\WhiteApp\bin\Debug\netcoreapp2.1\WhiteApp.runtimeconfig.dev.json
+d:\whiteapp\WhiteApp\WhiteApp\bin\Debug\netcoreapp2.1\WhiteApp.dll
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.csprojAssemblyReference.cache
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.csproj.CoreCompileInputs.cache
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.RazorAssemblyInfo.cache
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.RazorAssemblyInfo.cs
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.AssemblyInfoInputs.cache
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.AssemblyInfo.cs
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.RazorTargetAssemblyInfo.cache
+d:\whiteapp\WhiteApp\WhiteApp\bin\Debug\netcoreapp2.1\WhiteApp.pdb
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.dll
+d:\whiteapp\WhiteApp\WhiteApp\obj\Debug\netcoreapp2.1\WhiteApp.pdb
