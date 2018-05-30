@@ -38,12 +38,14 @@ namespace WhiteApp.Controllers
 
                     long startTimestamp = Stopwatch.GetTimestamp();
 
+                    long timestamp = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+
                     var currency = new Currency()
                     {
                         Id = 1,
                         CurrencyType = "EUR/USD",
                         Price = i,
-                        Timestamp = startTimestamp.ToString()
+                        Timestamp = timestamp.ToString()
                     };
 
                     var cur = JsonConvert.SerializeObject(currency);
